@@ -5,7 +5,7 @@ My name is Mus Priandi, a human being who was struggling in the field of informa
 Here are some think about me:
 
 - 🔭 I’m currently struggling as Backend Developer
-- 🌱 I’m currently learning Golang Java (Spring Boot)
+- 🌱 I’m currently learning Golang and Java (Spring Boot)
 - 💬 Inform me about some tips and trick about tech and code
 - 📫 React me on [LinkedIn](https://id.linkedin.com/in/mus-priandi-332800)
 

@@ -4,7 +4,7 @@ My name is Mus Priandi, a backend developer enthusiast! currently exploring the 
 
 - 🌱 Exploring the world of Backend Development.
 - 💬 Always open for insights and tips about tech and coding
-- 📫 Let's connect on [LinkedIn]([www.linkedin.com/in/muspriandi](https://www.linkedin.com/in/muspriandi))
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/muspriandi)
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muspriandi&show_icons=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muspriandi&layout=donut"/></a> |
 | ------------- | ------------- |
